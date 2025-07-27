@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "day11",
+=======
+  "name": "day8",
+>>>>>>> 01347b9b85a418a377dc3fd2fb7ad5b652b0ed7e
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,8 +14,13 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+<<<<<<< HEAD
     "bcryptjs": "^3.0.2",
     "express": "^5.1.0",
     "mongoose": "^8.16.5"
+=======
+    "express": "^5.1.0",
+    "mongoose": "^8.16.4"
+>>>>>>> 01347b9b85a418a377dc3fd2fb7ad5b652b0ed7e
   }
 }
